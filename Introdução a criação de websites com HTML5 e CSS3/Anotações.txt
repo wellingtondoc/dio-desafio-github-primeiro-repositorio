@@ -1,0 +1,18 @@
+Semântica
+
+section
+header
+article
+aside
+footer
+h1 ao h6
+
+Links e Texto
+tag <p> e <a>
+tag <a href="" target="_blank"> <a mailto="">
+
+Imagem
+tag <img src="parametro/obrigatorio.png" alt="mostra o que significa para usuário">
+
+
+https://tinypng.com - remover dados desnecessários da imagem
